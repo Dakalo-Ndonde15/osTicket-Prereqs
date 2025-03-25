@@ -295,4 +295,4 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 
-[<h4>Now continue here</h4>](https://github.com/Dakalo-Ndonde15/post-install-config/)
+<h4><a href="https://github.com/Dakalo-Ndonde15/post-install-config">Now Continue Here</a></h4>

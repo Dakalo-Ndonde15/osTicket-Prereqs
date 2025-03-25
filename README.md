@@ -295,4 +295,4 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 
-[<h4>Now continue here</h4>](https://github.com/niiobdavid/post-install-config/)
+[<h4>Now continue here</h4>](https://github.com/Dakalo-Ndonde15/post-install-config/)

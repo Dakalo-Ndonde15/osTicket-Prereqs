@@ -5,6 +5,10 @@
 <h1> How to Install osTicket </h1>
 This is an easy guide to installing a help desk ticketing system called osTicket.<br/>
 
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: How To Install osTicket with Prerequisites](https://youtu.be/RIHIFHpHe_c?si=4Hi6_MXmGTZlTKFG)
+
 
 <h2> Files You Need to Download</h2>
 

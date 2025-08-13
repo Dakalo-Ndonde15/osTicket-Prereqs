@@ -1,4 +1,4 @@
-# <a href="https://youtu.be/-BD8P2UjSL8?si=GlglMwH6P248u839">Video Demonstration</a>
+<p align="center"><a href="https://youtu.be/-BD8P2UjSL8?si=GlglMwH6P248u839">Video Demonstration</a>
 <p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
